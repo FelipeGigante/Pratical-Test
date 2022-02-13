@@ -10,7 +10,7 @@
 
 <br>
 <p> 🔗 Links </p>
-<a href="https://drive.google.com/file/d/11s8I2Yyw3qz0BjuT6_wayHHM_uesuEqI/view">&nbsp&nbsp&nbsp Link </a> - SQL code access link for building the database <br>
-<a href="https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?5105e8233f9433cf70ac379d6ccc5775">&nbsp&nbsp&nbsp Link </a> - XML Data Source / PHP <br>
-<a href="https://finance.yahoo.com/quote/BTC-EUR/history/">&nbsp&nbsp&nbsp Link </a> - Data Source / Python
+<a href="https://drive.google.com/file/d/11s8I2Yyw3qz0BjuT6_wayHHM_uesuEqI/view" target="_blank">&nbsp&nbsp&nbsp Link </a> - SQL code access link for building the database <br>
+<a href="https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?5105e8233f9433cf70ac379d6ccc5775" target="_blank">&nbsp&nbsp&nbsp Link </a> - XML Data Source / PHP <br>
+<a href="https://finance.yahoo.com/quote/BTC-EUR/history/" target="_blank">&nbsp&nbsp&nbsp Link </a> - Data Source / Python
 
